@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OkFB+2WLO2xiD6JxnY+vg3VdA5FsxKHdrV81q5D/gvro6OaD51hde85/GtKjXeCMCoQlcSUUaUevnc73KAVQLw==",
+  "dgSpecHash": "ZI5YMhXQDZT/yOOZgIkDaFXuAlWJgh9eoRCKFnAJXO/Dp+XL0g2OwUFsaUJ9KeSej9x3Df1RT2FITBI/xOAOVg==",
   "success": true,
-  "projectFilePath": "E:\\Проекты\\CodeWars\\CountCharactersInYourString\\CountCharactersInYourString.csproj",
+  "projectFilePath": "E:\\Проекты\\CodeWars\\src\\CountCharactersInYourString\\CountCharactersInYourString.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

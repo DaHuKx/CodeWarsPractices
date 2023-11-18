@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DkL/lOZnXNSOoobIzQi5Hf1Dx7ErPcYMTlx13vIDUIZiUGKFe8PZUxpXnOZdGbvNJue2HzdIjPnwdc4Eohunhw==",
+  "dgSpecHash": "VQTthGAOEA36o7fs9VYMGaEGQbKEr0Ted2ZXNx9j6SqPoJnfjlOYD0ee9METHCfwX4mjfk/OrFqlpnWrBPlYKw==",
   "success": true,
-  "projectFilePath": "E:\\Проекты\\CodeWars\\RomanNumeralsEncoder\\RomanNumeralsEncoder.csproj",
+  "projectFilePath": "E:\\Проекты\\CodeWars\\src\\RomanNumeralsEncoder\\RomanNumeralsEncoder.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

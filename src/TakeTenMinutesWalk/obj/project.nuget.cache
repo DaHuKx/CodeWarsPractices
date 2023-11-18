@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WDO8B+jAXO/RtqcQYSOO7SRNLrqZyYww9yO3eTxrZPtZQaUzPFvmMSINkxTFSr2Xi2JRlvWs5W1crHh7660qGQ==",
+  "dgSpecHash": "vEERQrpjUUDaEBjQWCT1l0qhxybr2AKbOmGdEedDCgkkhd9crF09roS5dQp1yGt1mvf+4biFdj/2c17yk3E33w==",
   "success": true,
-  "projectFilePath": "E:\\Проекты\\CodeWars\\TakeTenMinutesWalk\\TakeTenMinutesWalk.csproj",
+  "projectFilePath": "E:\\Проекты\\CodeWars\\src\\TakeTenMinutesWalk\\TakeTenMinutesWalk.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

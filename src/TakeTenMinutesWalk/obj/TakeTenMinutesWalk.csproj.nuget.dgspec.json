@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Проекты\\CodeWars\\TakeTenMinutesWalk\\TakeTenMinutesWalk.csproj": {}
+    "E:\\Проекты\\CodeWars\\src\\TakeTenMinutesWalk\\TakeTenMinutesWalk.csproj": {}
   },
   "projects": {
-    "E:\\Проекты\\CodeWars\\TakeTenMinutesWalk\\TakeTenMinutesWalk.csproj": {
+    "E:\\Проекты\\CodeWars\\src\\TakeTenMinutesWalk\\TakeTenMinutesWalk.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Проекты\\CodeWars\\TakeTenMinutesWalk\\TakeTenMinutesWalk.csproj",
+        "projectUniqueName": "E:\\Проекты\\CodeWars\\src\\TakeTenMinutesWalk\\TakeTenMinutesWalk.csproj",
         "projectName": "TakeTenMinutesWalk",
-        "projectPath": "E:\\Проекты\\CodeWars\\TakeTenMinutesWalk\\TakeTenMinutesWalk.csproj",
+        "projectPath": "E:\\Проекты\\CodeWars\\src\\TakeTenMinutesWalk\\TakeTenMinutesWalk.csproj",
         "packagesPath": "C:\\Users\\danik\\.nuget\\packages\\",
-        "outputPath": "E:\\Проекты\\CodeWars\\TakeTenMinutesWalk\\obj\\",
+        "outputPath": "E:\\Проекты\\CodeWars\\src\\TakeTenMinutesWalk\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

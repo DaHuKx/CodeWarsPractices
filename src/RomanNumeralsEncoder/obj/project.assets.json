@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Проекты\\CodeWars\\RomanNumeralsEncoder\\RomanNumeralsEncoder.csproj",
+      "projectUniqueName": "E:\\Проекты\\CodeWars\\src\\RomanNumeralsEncoder\\RomanNumeralsEncoder.csproj",
       "projectName": "RomanNumeralsEncoder",
-      "projectPath": "E:\\Проекты\\CodeWars\\RomanNumeralsEncoder\\RomanNumeralsEncoder.csproj",
+      "projectPath": "E:\\Проекты\\CodeWars\\src\\RomanNumeralsEncoder\\RomanNumeralsEncoder.csproj",
       "packagesPath": "C:\\Users\\danik\\.nuget\\packages\\",
-      "outputPath": "E:\\Проекты\\CodeWars\\RomanNumeralsEncoder\\obj\\",
+      "outputPath": "E:\\Проекты\\CodeWars\\src\\RomanNumeralsEncoder\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
