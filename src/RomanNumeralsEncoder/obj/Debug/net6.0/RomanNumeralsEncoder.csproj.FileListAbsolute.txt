@@ -1,0 +1,14 @@
+E:\Проекты\CodeWars\RomanNumeralsEncoder\bin\Debug\net6.0\RomanNumeralsEncoder.exe
+E:\Проекты\CodeWars\RomanNumeralsEncoder\bin\Debug\net6.0\RomanNumeralsEncoder.deps.json
+E:\Проекты\CodeWars\RomanNumeralsEncoder\bin\Debug\net6.0\RomanNumeralsEncoder.runtimeconfig.json
+E:\Проекты\CodeWars\RomanNumeralsEncoder\bin\Debug\net6.0\RomanNumeralsEncoder.dll
+E:\Проекты\CodeWars\RomanNumeralsEncoder\bin\Debug\net6.0\RomanNumeralsEncoder.pdb
+E:\Проекты\CodeWars\RomanNumeralsEncoder\obj\Debug\net6.0\RomanNumeralsEncoder.GeneratedMSBuildEditorConfig.editorconfig
+E:\Проекты\CodeWars\RomanNumeralsEncoder\obj\Debug\net6.0\RomanNumeralsEncoder.AssemblyInfoInputs.cache
+E:\Проекты\CodeWars\RomanNumeralsEncoder\obj\Debug\net6.0\RomanNumeralsEncoder.AssemblyInfo.cs
+E:\Проекты\CodeWars\RomanNumeralsEncoder\obj\Debug\net6.0\RomanNumeralsEncoder.csproj.CoreCompileInputs.cache
+E:\Проекты\CodeWars\RomanNumeralsEncoder\obj\Debug\net6.0\RomanNumeralsEncoder.dll
+E:\Проекты\CodeWars\RomanNumeralsEncoder\obj\Debug\net6.0\refint\RomanNumeralsEncoder.dll
+E:\Проекты\CodeWars\RomanNumeralsEncoder\obj\Debug\net6.0\RomanNumeralsEncoder.pdb
+E:\Проекты\CodeWars\RomanNumeralsEncoder\obj\Debug\net6.0\RomanNumeralsEncoder.genruntimeconfig.cache
+E:\Проекты\CodeWars\RomanNumeralsEncoder\obj\Debug\net6.0\ref\RomanNumeralsEncoder.dll

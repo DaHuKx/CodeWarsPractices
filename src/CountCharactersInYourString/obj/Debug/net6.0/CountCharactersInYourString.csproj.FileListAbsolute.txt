@@ -1,0 +1,14 @@
+E:\Проекты\CodeWars\CountCharactersInYourString\bin\Debug\net6.0\CountCharactersInYourString.exe
+E:\Проекты\CodeWars\CountCharactersInYourString\bin\Debug\net6.0\CountCharactersInYourString.deps.json
+E:\Проекты\CodeWars\CountCharactersInYourString\bin\Debug\net6.0\CountCharactersInYourString.runtimeconfig.json
+E:\Проекты\CodeWars\CountCharactersInYourString\bin\Debug\net6.0\CountCharactersInYourString.dll
+E:\Проекты\CodeWars\CountCharactersInYourString\bin\Debug\net6.0\CountCharactersInYourString.pdb
+E:\Проекты\CodeWars\CountCharactersInYourString\obj\Debug\net6.0\CountCharactersInYourString.GeneratedMSBuildEditorConfig.editorconfig
+E:\Проекты\CodeWars\CountCharactersInYourString\obj\Debug\net6.0\CountCharactersInYourString.AssemblyInfoInputs.cache
+E:\Проекты\CodeWars\CountCharactersInYourString\obj\Debug\net6.0\CountCharactersInYourString.AssemblyInfo.cs
+E:\Проекты\CodeWars\CountCharactersInYourString\obj\Debug\net6.0\CountCharactersInYourString.csproj.CoreCompileInputs.cache
+E:\Проекты\CodeWars\CountCharactersInYourString\obj\Debug\net6.0\CountCharactersInYourString.dll
+E:\Проекты\CodeWars\CountCharactersInYourString\obj\Debug\net6.0\refint\CountCharactersInYourString.dll
+E:\Проекты\CodeWars\CountCharactersInYourString\obj\Debug\net6.0\CountCharactersInYourString.pdb
+E:\Проекты\CodeWars\CountCharactersInYourString\obj\Debug\net6.0\CountCharactersInYourString.genruntimeconfig.cache
+E:\Проекты\CodeWars\CountCharactersInYourString\obj\Debug\net6.0\ref\CountCharactersInYourString.dll

@@ -1,0 +1,14 @@
+E:\Проекты\CodeWars\TakeTenMinutesWalk\bin\Debug\net6.0\TakeTenMinutesWalk.exe
+E:\Проекты\CodeWars\TakeTenMinutesWalk\bin\Debug\net6.0\TakeTenMinutesWalk.deps.json
+E:\Проекты\CodeWars\TakeTenMinutesWalk\bin\Debug\net6.0\TakeTenMinutesWalk.runtimeconfig.json
+E:\Проекты\CodeWars\TakeTenMinutesWalk\bin\Debug\net6.0\TakeTenMinutesWalk.dll
+E:\Проекты\CodeWars\TakeTenMinutesWalk\bin\Debug\net6.0\TakeTenMinutesWalk.pdb
+E:\Проекты\CodeWars\TakeTenMinutesWalk\obj\Debug\net6.0\TakeTenMinutesWalk.GeneratedMSBuildEditorConfig.editorconfig
+E:\Проекты\CodeWars\TakeTenMinutesWalk\obj\Debug\net6.0\TakeTenMinutesWalk.AssemblyInfoInputs.cache
+E:\Проекты\CodeWars\TakeTenMinutesWalk\obj\Debug\net6.0\TakeTenMinutesWalk.AssemblyInfo.cs
+E:\Проекты\CodeWars\TakeTenMinutesWalk\obj\Debug\net6.0\TakeTenMinutesWalk.csproj.CoreCompileInputs.cache
+E:\Проекты\CodeWars\TakeTenMinutesWalk\obj\Debug\net6.0\TakeTenMinutesWalk.dll
+E:\Проекты\CodeWars\TakeTenMinutesWalk\obj\Debug\net6.0\refint\TakeTenMinutesWalk.dll
+E:\Проекты\CodeWars\TakeTenMinutesWalk\obj\Debug\net6.0\TakeTenMinutesWalk.pdb
+E:\Проекты\CodeWars\TakeTenMinutesWalk\obj\Debug\net6.0\TakeTenMinutesWalk.genruntimeconfig.cache
+E:\Проекты\CodeWars\TakeTenMinutesWalk\obj\Debug\net6.0\ref\TakeTenMinutesWalk.dll
